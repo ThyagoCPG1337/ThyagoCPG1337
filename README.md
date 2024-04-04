@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Par falar comigo entre em contato com minhas redes sociais!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC--oEvHI1v7IOS4zMTbg-uQ " title="Ir para Youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
